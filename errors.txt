@@ -1,0 +1,12 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 120: expected menuitem
+(Perhaps you left out a " at the end of the first line.)
+    g-"Ring ring*
+    ^
+            Yo Ganvio i’m here. Fuck its a big house Good.now focus. it is supposed to be there next to his house. It is written that it's buried in a place that was close to his heart . Which is still complicated to understand. But as i know Pablo I suspicious that he meant to one of those three, I say start with the statue of himself in the living room ,now knock the door and good luck finding it!! You are cut off, no signal !! What is happening :"
+
+Ren'Py Version: Ren'Py 7.3.5.606
+Thu Nov 19 19:16:50 2020
